@@ -16,5 +16,6 @@ LSTM Model: Utilized a Long Short-Term Memory (LSTM) model trained on the 20-yea
 
 Deployment: The final prediction model is deployed in Streamlit app, allowing users to input parameters and obtain stock price forecasts.
 
-Try the App
+**Try the App**
+
 You can try out the Stock Price Prediction App here.  <https://stock-price-prediction-hnp.streamlit.app/>
